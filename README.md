@@ -1,6 +1,7 @@
 # Program: Documentation
 
 ![](https://github.com/TTPSLR/Program-doc.io/workflows/ns/badge.svg)
+![](https://www.codefactor.io/repository/github/atomes/atomes-doc/badge)
 
 ***Program*** is developed by [Dr. Sébastien Le Roux][slr], research engineer for the [CNRS][cnrs]
 
@@ -18,7 +19,7 @@
 
 Program is a Free (Open Source) software !
 
-This website presents the documentation of ***Program*** 
+This website presents the documentation of ***Program***
 
 This website is hosted on [GitHub][github] and was created using [Jekyll][jekyll]. 
 
@@ -32,4 +33,3 @@ This website is hosted on [GitHub][github] and was created using [Jekyll][jekyll
 [github]:https://github.com/
 [jekyll]:https://jekyllrb.com/
 [ccl]:http://creativecommons.org/licenses/by/3.0/deed.en_US
-[atomes-tuto]:/Atomes-tuto
