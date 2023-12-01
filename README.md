@@ -1,9 +1,8 @@
-# Atomes: Documentation
+# Program: Documentation
 
-![](https://github.com/atomes/atomes-doc.io/workflows/ns/badge.svg)
-![](https://www.codefactor.io/repository/github/atomes/atomes-doc/badge)
+![](https://github.com/TTPSLR/Program-doc.io/workflows/ns/badge.svg)
 
-***Atomes*** is developed by [Dr. Sébastien Le Roux][slr], research engineer for the [CNRS][cnrs]
+***Program*** is developed by [Dr. Sébastien Le Roux][slr], research engineer for the [CNRS][cnrs]
 
 <p align="center">
   <a href="https://www.cnrs.fr/"><img width="100" src="https://www.cnrs.fr/themes/custom/cnrs/logo.svg" alt="CNRS logo" align="center"></a>
@@ -15,21 +14,13 @@
   <a href="https://www.ipcms.fr/"><img width="100" src="https://www.ipcms.fr/wp-content/uploads/2020/09/cropped-dessin_logo_IPCMS_couleur_vectoriel_r%C3%A9%C3%A9quilibr%C3%A9-2.png" alt="IPCMS logo" align="center"></a>
 </p>
 
-# Welcome to the documentation of the Atomes program
+# Welcome to the documentation of "Program"
 
-[Atomes][atomes] is a Free (Open Source) software !
+Program is a Free (Open Source) software !
 
-This website presents the documentation of the ***Atomes*** program.
+This website presents the documentation of ***Program*** 
 
 This website is hosted on [GitHub][github] and was created using [Jekyll][jekyll]. 
-
-You can download the complete documentation in PDF here: [Atoms documentation PDF][atomes-doc]
-
-## Atomes tutorials
-
-You can also check the ***Atomes*** tutorials:
-
-- [Atomes tutorials][atomes-tuto]
 
 ## License
 
@@ -40,7 +31,5 @@ You can also check the ***Atomes*** tutorials:
 [ipcms]:https://www.ipcms.fr/
 [github]:https://github.com/
 [jekyll]:https://jekyllrb.com/
-[atomes]:https://atomes.ipcms.fr/
 [ccl]:http://creativecommons.org/licenses/by/3.0/deed.en_US
-[atomes-doc]:/Atomes-doc/atomes-manual.pdf
 [atomes-tuto]:/Atomes-tuto
